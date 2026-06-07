@@ -1,0 +1,9 @@
+[package]
+name = "tropical-graph"
+version = "0.1.0"
+edition = "2021"
+description = "Tropical semiring (max-plus) algebra on graph operations: shortest paths, eigenvalues, and tropical polyhedra"
+license = "MIT"
+repository = "https://github.com/SuperInstance/tropical-graph"
+
+[dependencies]
